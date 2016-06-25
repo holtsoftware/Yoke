@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Yoke",
+  "name": "Sannel Yoke",
+  "description": "Sannel Yoke Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Adam Holt"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
